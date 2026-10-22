@@ -1,0 +1,38 @@
+ejercicio 1:
+1. Calcular importe de boletos de cine
+2. Calcular rendimiento y costo de combustible
+3. Salir
+Ingrese el número de la opción deseada: 1
+Ingrese la cantidad de boletos a comprar: 1
+El importe total a pagar es: $75.00
+Seleccione una opción:
+1. Calcular importe de boletos de cine
+2. Calcular rendimiento y costo de combustible
+3. Salir
+Ingrese el número de la opción deseada: 1
+Ingrese la cantidad de boletos a comprar: 3
+El importe total a pagar es: $225.00
+Seleccione una opción:
+1. Calcular importe de boletos de cine
+2. Calcular rendimiento y costo de combustible
+3. Salir
+
+ejrcicio 2:
+Ingrese el número de la opción deseada: 2
+Ingrese la distancia recorrida en kilómetros: 120
+Ingrese la cantidad de litros consumidos: 10
+Rendimiento: 12.0 km/l
+Costo: $240.00
+Seleccione una opción:
+1. Calcular importe de boletos de cine
+2. Calcular rendimiento y costo de combustible
+3. Salir
+Ingrese el número de la opción deseada: 2
+Ingrese la distancia recorrida en kilómetros: 250
+Ingrese la cantidad de litros consumidos: 20
+Rendimiento: 12.5 km/l
+Costo: $480.00
+Seleccione una opción:
+1. Calcular importe de boletos de cine
+2. Calcular rendimiento y costo de combustible
+3. Salir
